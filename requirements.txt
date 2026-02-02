@@ -3,3 +3,8 @@ numpy
 pandas
 scikit-learn
 tqdm
+
+
+#python -m venv venv
+#source venv/bin/activate
+#pip install -r requirements.txt
